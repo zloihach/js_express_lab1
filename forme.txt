@@ -1,0 +1,7 @@
+https://metanit.com/web/nodejs/4.4.php
+https://medium.com/devschacht/node-hero-chapter-6-83bc7bef89fb
+https://medium.com/devschacht/node-hero-chapter-6-83bc7bef89fb
+https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/routes
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction#creating_route_handlers
+https://expressjs.com/en/guide/routing.html#response-methods
+https://expressjs.com/ru/starter/static-files.html
